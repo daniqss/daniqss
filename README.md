@@ -1,8 +1,10 @@
 ### hi! 👏
 
 ### about me
-I'm a third-year computer science student at the University of A Coruña, with a specialization in computer engineering
+I'm a third-year computer science student at the University of A Coruña, studying a specialization in computer engineering
+
 I like coding, experimenting and learning different technologies from different fields
+
 And I use arch linux btw
 
 ### currently using
@@ -15,7 +17,7 @@ And I use arch linux btw
 - nix and nixos
 - wayland compositors programming
 - nvim
-- game development basics
+- emulation and game engines
 - jetpack compose
 
 ![he's just like me fr](hes-just-like-me-fr.gif)
