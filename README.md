@@ -5,7 +5,7 @@ I'm a third-year computer science student at the University of A Coruña, studyi
 
 I like coding, experimenting and learning different technologies from different fields
 
-And I use arch linux btw
+And I use arch **btw**
 
 ### currently using
 - rust
