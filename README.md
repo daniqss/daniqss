@@ -2,7 +2,7 @@
 
 ### about me
 I'm a third-year computer science student at the University of A Coruña, studying a specialization in computer engineering.
-I like coding, experimenting and learning different technologies from different fields. And I use arch **btw**
+I like coding, experimenting and learning different technologies from different fields. And I use arch linux **btw**
 
 ### what i like to use
 - rust
